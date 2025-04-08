@@ -1,0 +1,86 @@
+ARTÍCULO 1 - Ámbito de Aplicación - archivo: ARTÍCULO_1.txt
+ARTÍCULO 2 - Alcances - archivo: ARTÍCULO_2.txt
+ARTÍCULO 3 - Derechos del Personal Interino y Suplente - archivo: ARTÍCULO_3.txt
+ARTÍCULO 4 - Disposiciones Generales sobre Licencias - archivo: ARTÍCULO_4.txt
+ARTÍCULO 5 - Cómputo de días de licencia - archivo: ARTÍCULO_5.txt
+ARTÍCULO 6 - Prórrogas de licencia - archivo: ARTÍCULO_6.txt
+ARTÍCULO 7 - Licencias por enfermedad/accidente - archivo: ARTÍCULO_7.txt
+ARTÍCULO 8 - Alta médica y reincorporación - archivo: ARTÍCULO_8.txt
+ARTÍCULO 9 - Junta Médica y cambio de funciones - archivo: ARTÍCULO_9.txt
+ARTÍCULO 10 - Incapacidad total y permanente - archivo: ARTÍCULO_10.txt
+ARTÍCULO 11 - Derecho a licencias - archivo: ARTÍCULO_11.txt
+ARTÍCULO 12 - Período de receso escolar - archivo: ARTÍCULO_12.txt
+ARTÍCULO 13 - Descanso anual obligatorio - archivo: ARTÍCULO_13.txt
+ARTÍCULO 14 - Licencia simultánea - archivo: ARTÍCULO_14.txt
+ARTÍCULO 15 - Licencias especiales - archivo: ARTÍCULO_15.txt
+ARTÍCULO 16 - Afecciones de corto tratamiento - archivo: ARTÍCULO_16.txt
+ARTÍCULO 17 - Junta Médica por afección prolongada - archivo: ARTÍCULO_17.txt
+ARTÍCULO 18 - Enfermedad en hora de labor - archivo: ARTÍCULO_18.txt
+ARTÍCULO 19 - Accidentes de trabajo y enfermedades profesionales - archivo: ARTÍCULO_19.txt
+ARTÍCULO 20 - Enfermedades de largo tratamiento - archivo: ARTÍCULO_20.txt
+ARTÍCULO 21 - Transformación de licencias anteriores - archivo: ARTÍCULO_21.txt
+ARTÍCULO 22 - Plazos máximos y nuevas licencias - archivo: ARTÍCULO_22.txt
+ARTÍCULO 23 - Incapacidad permanente - archivo: ARTÍCULO_23.txt
+ARTÍCULO 24 - Incapacidad parcial - archivo: ARTÍCULO_24.txt
+ARTÍCULO 25 - Cambio de funciones por indicación médica - archivo: ARTÍCULO_25.txt
+ARTÍCULO 26 - Violencia de género - archivo: ARTÍCULO_26.txt
+ARTÍCULO 27 - Maternidad - archivo: ARTÍCULO_27.txt
+ARTÍCULO 28 - Atención de hijos menores - archivo: ARTÍCULO_28.txt
+ARTÍCULO 29 - Tenencia con fines de adopción - archivo: ARTÍCULO_29.txt
+ARTÍCULO 30 - Atención de grupo familiar - archivo: ARTÍCULO_30.txt
+ARTÍCULO 31 - Matrimonio del docente - archivo: ARTÍCULO_31.txt
+ARTÍCULO 32 - Licencia por aislamiento - archivo: ARTÍCULO_32.txt
+ARTÍCULO 33 - Atención de persona disfuncionada - archivo: ARTÍCULO_33.txt
+ARTÍCULO 34 - Tipos de licencias extraordinarias - archivo: ARTÍCULO_34.txt
+ARTÍCULO 35 - Estudios y exámenes - archivo: ARTÍCULO_35.txt
+ARTÍCULO 36 - Prácticas obligatorias - archivo: ARTÍCULO_36.txt
+ARTÍCULO 37 - Estudios de post-grado - archivo: ARTÍCULO_37.txt
+ARTÍCULO 38 - Actividades culturales o científicas - archivo: ARTÍCULO_38.txt
+ARTÍCULO 40 - Representación gremial - archivo: ARTÍCULO_40.txt
+ARTÍCULO 41 - Capacitación y perfeccionamiento - archivo: ARTÍCULO_41.txt
+ARTÍCULO 42 - Candidatura a cargos electivos - archivo: ARTÍCULO_42.txt
+ARTÍCULO 43 - Ejercicio de cargos electivos - archivo: ARTÍCULO_43.txt
+ARTÍCULO 44 - Cargos de mayor jerarquía - archivo: ARTÍCULO_44.txt
+ARTÍCULO 45 - Asuntos particulares - archivo: ARTÍCULO_45.txt
+ARTÍCULO 46 - Acompañar al cónyuge/concubino - archivo: ARTÍCULO_46.txt
+ARTÍCULO 47 - Justificación de inasistencias - archivo: ARTÍCULO_47.txt
+ARTÍCULO 48 - Fallecimiento - archivo: ARTÍCULO_48.txt
+ARTÍCULO 49 - Fenómenos meteorológicos - archivo: ARTÍCULO_49.txt
+ARTÍCULO 50 - Donación de sangre - archivo: ARTÍCULO_50.txt
+ARTÍCULO 51 - Donación de órganos - archivo: ARTÍCULO_51.txt
+ARTÍCULO 52 - Razones particulares - archivo: ARTÍCULO_52.txt
+ARTÍCULO 53 - Superposición de horarios - archivo: ARTÍCULO_53.txt
+ARTÍCULO 54 - Orden de prelación de actividades - archivo: ARTÍCULO_54.txt
+ARTÍCULO 55 - Festividades religiosas - archivo: ARTÍCULO_55.txt
+ARTÍCULO 56 - Comisión de servicios - archivo: ARTÍCULO_56.txt
+ARTÍCULO 57 - Franquicias - archivo: ARTÍCULO_57.txt
+ARTÍCULO 58 - Horario para estudiantes - archivo: ARTÍCULO_58.txt
+ARTÍCULO 59 - Madres lactantes - archivo: ARTÍCULO_59.txt
+ARTÍCULO 60 - Trámites personales - archivo: ARTÍCULO_60.txt
+ARTÍCULO 61 - Delegados gremiales - archivo: ARTÍCULO_61.txt
+ARTÍCULO 62 - Obligaciones del personal - archivo: ARTÍCULO_62.txt
+ARTÍCULO 63 - Descuentos por inasistencias - archivo: ARTÍCULO_63.txt
+ARTÍCULO 64 - Personal en comisión de servicios - archivo: ARTÍCULO_64.txt
+ARTÍCULO 65 - Registro de licencias en legajo - archivo: ARTÍCULO_65.txt
+ARTÍCULO 66 - Declaración de domicilio - archivo: ARTÍCULO_66.txt
+ARTÍCULO 67 - Control de asistencia - archivo: ARTÍCULO_67.txt
+ARTÍCULO 68 - Registros de asistencia - archivo: ARTÍCULO_68.txt
+ARTÍCULO 69 - Comisiones de servicio - archivo: ARTÍCULO_69.txt
+ARTÍCULO 70 - Libreta médica docente - archivo: ARTÍCULO_70.txt
+ARTÍCULO 71 - Presentación de solicitud - archivo: ARTÍCULO_71.txt
+ARTÍCULO 72 - Certificación sanitaria - archivo: ARTÍCULO_72.txt
+ARTÍCULO 73 - Obligación de requerir intervención médica - archivo: ARTÍCULO_73.txt
+ARTÍCULO 74 - Requisitos del certificado médico - archivo: ARTÍCULO_74.txt
+ARTÍCULO 75 - Certificado fuera de la provincia - archivo: ARTÍCULO_75.txt
+ARTÍCULO 76 - Reconocimiento previo a cirugía - archivo: ARTÍCULO_76.txt
+ARTÍCULO 77 - Pago de haberes en licencia - archivo: ARTÍCULO_77.txt
+ARTÍCULO 78 - Falta de puntualidad - archivo: ARTÍCULO_78.txt
+ARTÍCULO 79 - Comunicación de ausencias - archivo: ARTÍCULO_79.txt
+ARTÍCULO 80 - Sanciones por ausencias - archivo: ARTÍCULO_80.txt
+ARTÍCULO 81 - Ausentarse sin causa - archivo: ARTÍCULO_81.txt
+ARTÍCULO 82 - Forma de aplicar descuentos - archivo: ARTÍCULO_82.txt
+ARTÍCULO 83 - Sanciones por tardanzas - archivo: ARTÍCULO_83.txt
+ARTÍCULO 84 - Sanciones por inasistencia - archivo: ARTÍCULO_84.txt
+ARTÍCULO 85 - Abandono de servicio (5 días seguidos) - archivo: ARTÍCULO_85.txt
+ARTÍCULO 86 - Abandono de servicio (10 días no consecutivos) - archivo: ARTÍCULO_86.txt
+ARTÍCULO 87 - Autoridades y sanciones - archivo: ARTÍCULO_87.txt
