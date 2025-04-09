@@ -343,5 +343,256 @@
     "articulo": 87,
     "contenido": "[ARTÍCULO 87°]\nARTICULO 87°.- El apercibimiento podrá ser aplicado mediante el Acto Administrativo correspondiente, por la Autoridad Máxima del Establecimiento Educativo.\nLa suspensión, hasta un máximo de cinco (5) días por año calendario, la Autoridad Máxima de cada nivel educativo. Cuando exceda de este término, por la Subsecretaría de Educación.\nLa cesantía y la exoneración serán aplicadas exclusivamente por el PODER EJECUTIVO PROVINCIAL, y solamente en estos casos, previa sustanciación del respectivo sumario.\nLa Autoridad Máxima del establecimiento educativo es el responsable de elevar dentro de los TRES (3) primeros días de cada mes, a consideración del Superior Jerárquico inmediato, el proyecto de acto administrativo necesario para la aplicación de la sanción de que se trate; su incumplimiento será considerado falta grave.\nAplicada la sanción por el funcionario competente para ello, se informará a la DIRECCIÓN PROVINCIAL DE RECURSOS HUMANOS acompañando copia del Acto Administrativo respectivo debidamente notificada al docente."
   },
-  ]
-
+  {
+    "titulo": "ANEXO II",
+    "contenido": [
+      {
+        "seccion": "Licencias Especiales (Artículo 15°)",
+        "articulos": [
+          {
+            "Art.": "16",
+            "Descripción": "Afecciones o Lesiones de corto Tratamiento",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "18",
+            "Descripción": "Enfermedades en Hora de Labor",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "19",
+            "Descripción": "Accidentes de Trabajo o Enfermedades Profesionales",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "20,21",
+            "Descripción": "Afecciones o Lesiones de Largo Tratamiento",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "22",
+            "Descripción": "Incapacidad",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director de Nivel"
+          },
+          {
+            "Art.": "25",
+            "Descripción": "Cambio de Funciones",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "26",
+            "Descripción": "Por Violencia de Género",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "27",
+            "Descripción": "Maternidad",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "28",
+            "Descripción": "Atención de Hijos Menores",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "29",
+            "Descripción": "Tenencia con Fines de Adopción",
+            "Funcionario Otorgante": "Director de Nivel",
+            "Funcionario Interviniente": "Director Unidad Escolar"
+          },
+          {
+            "Art.": "30",
+            "Descripción": "Atención del Grupo Familiar",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "31",
+            "Descripción": "Matrimonio del Docente",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "32",
+            "Descripción": "Por Aislamiento",
+            "Funcionario Otorgante": "Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director de Nivel"
+          },
+          {
+            "Art.": "33",
+            "Descripción": "Por Atención de Persona Disfuncionada",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          }
+        ]
+      },
+      {
+        "seccion": "Licencias Extraordinarias con Goce de Haberes",
+        "articulos": [
+          {
+            "Art.": "35",
+            "Descripción": "Para Estudios, Exámenes y Prácticas",
+            "Funcionario Otorgante": "Director Unidad Escolar / Organismo",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "36",
+            "Descripción": "Para Realizar Estudios e Investigaciones",
+            "Funcionario Otorgante": "Poder Ejecutivo",
+            "Funcionario Interviniente": "Dir. Prov. de RRHH - Min. de Educ. C.yT."
+          },
+          {
+            "Art.": "38",
+            "Descripción": "Para Actividades de interés educativo, científico, cultural y tecnológico",
+            "Funcionario Otorgante": "Director de Nivel",
+            "Funcionario Interviniente": "Director Unidad Escolar"
+          },
+          {
+            "Art.": "39",
+            "Descripción": "Para Actividades Deportivas no Rentadas",
+            "Funcionario Otorgante": "Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "40",
+            "Descripción": "Representación Gremial",
+            "Funcionario Otorgante": "Min. de Educ. C.yT.",
+            "Funcionario Interviniente": ""
+          },
+          {
+            "Art.": "41",
+            "Descripción": "Capacitación y Perfeccionamiento Docente",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar"
+          }
+        ]
+      },
+      {
+        "seccion": "Licencias Extraordinarias sin Goce de Haberes",
+        "articulos": [
+          {
+            "Art.": "42",
+            "Descripción": "Candidatura a Cargos Electivos",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "43",
+            "Descripción": "Ejercicio de Cargos Electivos o funciones superiores de gobierno",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "44",
+            "Descripción": "Ejercicio de Cargos de Mayor Jerarquía",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar / Director de Nivel"
+          },
+          {
+            "Art.": "45",
+            "Descripción": "Asuntos Particulares",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar"
+          },
+          {
+            "Art.": "46",
+            "Descripción": "Para Acompañar al Cónyuge / Concubino",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": ""
+          }
+        ]
+      },
+      {
+        "seccion": "Justificación de Inasistencias (Artículo 47°)",
+        "articulos": [
+          {
+            "Art.": "48",
+            "Descripción": "Por Fallecimiento",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "49",
+            "Descripción": "Por Razones Extraordinarias",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "50",
+            "Descripción": "Por Donación de Sangre",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "51",
+            "Descripción": "Por donación de órganos",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "52",
+            "Descripción": "Por Razones Especiales o Particulares",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "53",
+            "Descripción": "Por Superposición de Horarios",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "54",
+            "Descripción": "Por Festividades Religiosas",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "56",
+            "Descripción": "Comisión de Servicios",
+            "Funcionario Otorgante": "Director Unidad Escolar / Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          }
+        ]
+      },
+      {
+        "seccion": "Franquicias (Artículo 57°)",
+        "articulos": [
+          {
+            "Art.": "58",
+            "Descripción": "Horario para Estudiantes",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Director Unidad Escolar"
+          },
+          {
+            "Art.": "59",
+            "Descripción": "Reducción Horaria para docentes madres de lactantes",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "60",
+            "Descripción": "Por Citaciones y Trámites Personales",
+            "Funcionario Otorgante": "Director Unidad Escolar",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          },
+          {
+            "Art.": "61",
+            "Descripción": "Para Delegados Gremiales",
+            "Funcionario Otorgante": "Dir. Prov. RR HH - Min. de Educ. C.yT.",
+            "Funcionario Interviniente": "Secretario de Unidad Escolar"
+          }
+        ]
+      }
+    ]
+  }
+]
