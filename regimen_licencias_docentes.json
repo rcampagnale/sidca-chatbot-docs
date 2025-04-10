@@ -347,8 +347,24 @@
   "titulo": "Resumen de Licencia",
   "tipo": "imagenes",
   "contenido": [
-    "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/images/resumen_licencia_1.png",
-    "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/images/resumen_licencia_2.png"
+    ARTÍCULO | DESCRIPCIÓN | OTORGANTE | INTERVINIENTE
+------------------------------------------------------------------------------------------
+12 | Licencia Anual Ordinaria | Director Unidad Escolar, Secretario de Unidad Escolar | 
+16 y 17 | Afecciones o Lesiones de corto Tratamiento | Director Unidad Escolar | Secretario de Unidad Escolar
+18 | Enfermedades en Hora de Labor | Director Unidad Escolar | Secretario de Unidad Escolar
+19 | Accidentes de Trabajo o Enfermedades Profesionales | Dir. Prov. RR HH - Min. de Educ. C.yT. | Director Unidad Escolar Director de Nivel
+20, 21 y 22 | Afecciones o Lesiones de Largo Tratamiento | Dir. Prov. RR HH - Min. De Educ. C.yT. | Director Unidad Escolar Director de Nivel
+23 y 24 | Incapacidad | Dir. Prov. RR HH - Min. de Educ. C.yT. | Director Unidad Escolar Director de Nivel
+25 | Cambio de Funciones | Dir. Prov. RR HH - Min. de Educ. C.yT. | Director Unidad Escolar Director de Nivel
+26 | Por Violencia de Género | Director de Nivel | Director Unidad Escolar
+27 | Maternidad | Director Unidad Escolar | Secretario de Unidad Escolar
+28 | Atención de Hijos Menores | Director Unidad Escolar | Secretario de Unidad Escolar
+29 | Tenencia con Fines de Adopción | Director de Nivel | Director Unidad Escolar
+30 | Atención del Grupo Familiar | Director Unidad Escolar | Secretario de Unidad Escolar
+31 | Matrimonio del Docente | Director Unidad Escolar | Secretario de Unidad Escolar
+32 | Por Aislamiento | Min. de Educ. C. y T. | Director de Nivel
+33 | Por Atención de Persona Disfuncionada | Dir. Prov. RR HH - Min. de Educ. C.yT. | Director Unidad Escolar Director de Nivel
+
   ]
 }
 
