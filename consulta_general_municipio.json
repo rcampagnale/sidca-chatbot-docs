@@ -1,0 +1,17 @@
+[
+  {
+    "pregunta": "¿Dónde se realizan los trámites administrativos docentes municipales?",
+    "respuesta": "Los trámites administrativos deben realizarse en la Dirección de Educación de la Municipalidad correspondiente.",
+    "contenido": "Los docentes municipales deben acudir a la Dirección de Educación de su jurisdicción para realizar trámites como inscripción, presentación de documentación, solicitudes de licencias, entre otros."
+  },
+  {
+    "pregunta": "¿Qué documentación se necesita para ingresar a la docencia municipal?",
+    "respuesta": "Se requiere DNI, título docente, certificado de antecedentes penales y constancia de inscripción en el padrón docente municipal.",
+    "contenido": "Para el ingreso a la docencia municipal se debe presentar: Documento Nacional de Identidad, título habilitante, certificado de antecedentes penales y constancia de inscripción en el padrón docente correspondiente."
+  },
+  {
+    "pregunta": "¿Cómo se solicitan las licencias en el sistema municipal?",
+    "respuesta": "Las licencias deben solicitarse mediante nota formal y presentarse en la oficina de personal o recursos humanos de la Municipalidad.",
+    "contenido": "Las solicitudes de licencias en el sistema municipal deben gestionarse mediante nota dirigida a la Dirección de Recursos Humanos del municipio, acompañada de la documentación respaldatoria correspondiente."
+  }
+]
