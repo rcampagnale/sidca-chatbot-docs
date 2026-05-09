@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "actualizado": "2026-05-09",
+  "descripcion": "Índice central de fuentes documentales que consume el backend del chatbot SiDCa.",
+  "fuentes": [
+    {
+      "id": "licencias_docentes_provincial",
+      "dominio": "licencias",
+      "nombre": "Régimen de Licencias Docentes Provincial",
+      "referencia": "Decreto Acuerdo Nº 1092/2015 – Régimen de Licencias Docentes",
+      "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/regimen_licencias_docentes.json",
+      "activo": true
+    },
+    {
+      "id": "estatuto_docente_provincial",
+      "dominio": "estatuto",
+      "nombre": "Estatuto del Docente Provincial",
+      "referencia": "Ley Nº 3122 – Estatuto del Docente Provincial",
+      "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/texto_provincial_para_firestore.json",
+      "activo": true
+    },
+    {
+      "id": "consultas_generales_sidca",
+      "dominio": "general",
+      "nombre": "Consultas generales SiDCa",
+      "referencia": "Consultas generales SiDCa",
+      "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/consultas_generales.json",
+      "activo": true
+    },
+    {
+      "id": "coberturas_decreto_636",
+      "dominio": "coberturas",
+      "nombre": "Sistema de Asamblea Pública de Coberturas",
+      "referencia": "Dcto. Acdo. Nº 636/2021 – Sistema de Asamblea Pública de Coberturas de Cargos y Horas Cátedras",
+      "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/decreto_636_coberturas_docentes.json",
+      "activo": true
+    }
+  ]
+}
