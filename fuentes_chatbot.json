@@ -34,6 +34,14 @@
       "referencia": "Dcto. Acdo. Nº 636/2021 – Sistema de Asamblea Pública de Coberturas de Cargos y Horas Cátedras",
       "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/decreto_636_coberturas_docentes.json",
       "activo": true
-    }
+    },
+    {
+  "id": "servicios_sidca_app",
+  "dominio": "servicios",
+  "nombre": "Servicios, contactos y beneficios de la App SiDCa",
+  "referencia": "Información institucional disponible en la App SiDCa",
+  "url": "https://raw.githubusercontent.com/rcampagnale/sidca-chatbot-docs/main/servicios_sidca_app.json",
+  "activo": true
+}
   ]
 }
